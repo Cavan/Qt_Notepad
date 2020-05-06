@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>C:/Users/Cavan Home/Pictures/Icons/Copy.bmp</file>
+        <file>C:/Users/Cavan Home/Pictures/Icons/Cut.bmp</file>
+        <file>C:/Users/Cavan Home/Pictures/Icons/DeleteSticky.bmp</file>
+        <file>C:/Users/Cavan Home/Pictures/Icons/New.bmp</file>
+        <file>C:/Users/Cavan Home/Pictures/Icons/Open.bmp</file>
+        <file>C:/Users/Cavan Home/Pictures/Icons/Paste.bmp</file>
+        <file>C:/Users/Cavan Home/Pictures/Icons/Save.bmp</file>
+    </qresource>
+</RCC>
